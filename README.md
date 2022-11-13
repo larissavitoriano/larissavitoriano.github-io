@@ -1,4 +1,4 @@
-# larissavitoriano.github-io
+# larissavitoriano.github.io
 # portfólio larissa vitoriano
 
 Eu sou a Larissa Vitoriano, mestra em TI e community manager trch na ZUP inovation.
