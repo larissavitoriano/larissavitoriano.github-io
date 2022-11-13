@@ -9,3 +9,5 @@ Algumas tecnologias:
 - provedor de IA;
 - gerenciamento de comunidades;
 - programa de champions;
+
+![(https://giphy.com/explore/happy-birthday-funny)]
