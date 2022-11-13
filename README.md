@@ -10,4 +10,4 @@ Algumas tecnologias:
 - gerenciamento de comunidades;
 - programa de champions;
 
-![(https://giphy.com/explore/happy-birthday-funny)]
+![alo titulo](https://giphy.com/explore/happy-birthday-funny)
