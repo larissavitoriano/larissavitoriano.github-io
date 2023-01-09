@@ -1,7 +1,7 @@
 # larissavitoriano.github.io
 # portfólio larissa vitoriano
 
-Eu sou a Larissa Vitoriano, mestra em TI e community manager trch na ZUP inovation.
+Eu sou a Larissa Vitoriano, mestra em TI e community manager tech na ZUP innovation.
 
 Algumas tecnologias:
 - Inteligência artificial;
